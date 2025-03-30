@@ -28,7 +28,7 @@ For convenience, you can use the `split.sh`
 ## Training
 
 ```
-cd src/
+cd filmcpi/
 python train.py --rs 0 --ds biosnap --split ud --model_type film_cp
 ```
 
