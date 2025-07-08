@@ -38,3 +38,16 @@ For convenience, you can use the `run.sh`
 ```
 If you want to use FilmCPI<sub>pc</sub> or FilmCPI<sub>concat</sub>, you only need to change the codes in `model.py` in `Line 70, 71`
 
+## Citation
+
+If you find our work helpful to your research, please cite:
+```
+@article{lin2024utilizing,
+  title={Utilizing data imbalance to enhance compound-protein interaction prediction models},
+  author={Lin, Wei and Fung, Chi Chung Alan},
+  journal={bioRxiv},
+  pages={2024--10},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
