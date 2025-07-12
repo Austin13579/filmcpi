@@ -43,11 +43,11 @@ If you want to use FilmCPI<sub>pc</sub> or FilmCPI<sub>concat</sub>, you only ne
 If you find our work helpful to your research, please cite:
 ```
 @article{lin2024utilizing,
-  title={Utilizing data imbalance to enhance compound-protein interaction prediction models},
+  title={Utilizing Data Imbalance to Enhance Compound--Protein Interaction Prediction Models},
   author={Lin, Wei and Fung, Chi Chung Alan},
-  journal={bioRxiv},
-  pages={2024--10},
+  journal={Advanced Intelligent Systems},
+  pages={2400985},
   year={2024},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={Wiley Online Library}
 }
 ```
