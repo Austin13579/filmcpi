@@ -1,6 +1,8 @@
-# Utilizing data imbalance to enhance compound-protein interaction prediction models (FilmCPI)
+# Utilizing data imbalance to enhance compound-protein interaction prediction models
 
-## Package
+This is a PyTorch implementation of FilmCPI.
+
+## Dependencies
 We use the following Python packages for core development. We test the results with `Python=3.8`
 ```
 numpy==1.24.3
